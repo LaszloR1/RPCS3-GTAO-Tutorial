@@ -18,7 +18,7 @@ On the first time setup you will be required to locate pkg2zip and the .tsv file
 
 Download the following files
 - game: `NPUB31154`
-- dlc: `BLUS31156` (optional, but recommended collectors edition extras)
+- dlc: `BLUS31156` (Optional, but recommended collectors edition extras)
 
 ## Install the Game
 
@@ -33,10 +33,16 @@ Start RPCS3 and click `Files > Install Packages/Raps/Edats`
 Download [rusty-psn](https://github.com/RainbowCookie32/rusty-psn)
 
 - Launch it
-- Look up updates with the game's serial number (`NPUB31154`)
-- Download the update(s) (`1.06` recommended, pseudo-online works until `1.12`, **if you want `1.12` you need to download all previous versions as well**)
+- Look up updates with the game's serial number `NPUB31154`
+- Download the update(s) (`1.06` recommended, pseudo-online works until `1.12`, **if you want `1.12` you need to download all previous patches as well**)
 - Select the downloaded patch(es) in File Explorer and drag it into RPCS3
 - Your game version should be `1.06` now
+
+## Un-Patch It
+If you installed an update, but you want to go back to 1.0 follow these steps: 
+- Right click on the game entry and select Open Install Folder
+- Delete the folder
+- Hit refresh
 
 ## Custom Config (Credit to [@Dark FH](https://www.youtube.com/@DakrFH))
 
@@ -65,4 +71,6 @@ Start the game, complete `Prologue` and `Franklin and Lamar` and you should be a
 
 Since characters are temporary its only fair we cheat a little bit. Money and RP are stored as `4 Byte Big Endians`. If you are using Cheat Engine this type has to be enabled inside `Settings > Extra Custom Types`. You can also set up `300000000 - 380000000` as start and endpoints for the scans.
 
-
+## Credits
+- [@Tervel1337](https://twitter.com/Tervel1337) for discovering this whole rabbit-hole
+- [@Dakr FH](https://www.youtube.com/@DakrFH) for the configs
