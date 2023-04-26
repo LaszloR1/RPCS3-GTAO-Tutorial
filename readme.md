@@ -50,16 +50,16 @@ Create custom config for GTA 5 (right click on the game) with the following sett
 - `GPU > Additional Settings > Write Color Buffers: On`
 - `Network > Network Configuration > Network Status: Connected`
 - `Network > Network Configuration > Enable UPNP: On`
-- `Network > PSN Configuration > PSN Status: RCPN`
+- `Network > PSN Configuration > PSN Status: RPCN`
 - `Advanced > Core > Accurate RSX reservation access: On`
 - `Advanced > GPU > Write Depth Buffers: On`
 - `Advanced > RSX FIFO Accuracy: Atomic`
 
-##  RCPN Setup
+##  RPCN Setup
 
 These steps are required to be able to play with others
 
-- `Conifguration > RCPN > Account > Create Account` (do what it says)
+- `Conifguration > RPCN > Account > Create Account` (do what it says)
 - Once done click Test Account it should say: `Your account is valid!`
 - If invalid repeat the step 1 again
 
