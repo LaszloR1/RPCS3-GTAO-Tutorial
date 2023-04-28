@@ -1,10 +1,14 @@
 # RPCS3 GTAO Tutorial
 
+## Intro
+
+This tutorial expects that you are somewhat familiar with emulation, usage of RPCS3 and general computer usage. I'm fairly certain you can google any issue you come across and find a solution in seconds. Piracy is bad, this guide assumes you own a PS3, GTA V (maybe even the Collectors Edition) and you would like to try out exciting new technologies such as emulation, but you don't have a Blu-ray reader for your PC.
+
 ## The Basics
 
 Download & Install [RPCS3](https://rpcs3.net/download)
 
-Download the OS From [Sony's Website](https://www.playstation.com/en-us/support/hardware/ps3/system-software/)
+Download the OS From [Sony's Website](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) and Intall it in RPCS3
 
 Download [pkg2zip](https://github.com/mmozeiko/pkg2zip/releases)
 
@@ -12,13 +16,18 @@ Download [Nopaystation](https://nopaystation.com/)
 - Download [PS3 Games TSV](https://nopaystation.com/tsv/PS3_GAMES.tsv)
 - Download [PS3 DLCs TSV](https://nopaystation.com/tsv/PS3_DLCS.tsv)
 
-## Start the NPS Browser
+## NPS Browser
 
-On the first time setup you will be required to locate pkg2zip and the .tsv files you have downloaded.
+- Launch it & Configure it with the following steps
+- `Games > PS3 tsv` and locate PS3_GAMES.tsv
+- `DLCs > PS3 tsv` and locate PS3_DLCS.tsv
+- `Download and unpack dir` and locate the directory where you want files to download to
+- `Any pkg dec tool` and locate pkg2zip (the executable)
+- Hit close [x]
 
-Download the following files
+Download the following files with your newly configured program
 - game: `NPUB31154`
-- dlc: `BLUS31156` (Optional, but recommended collectors edition extras)
+- dlc: `BLUS31156` (Optional, but recommended Collector's Edition extras)
 
 ## Install the Game
 
