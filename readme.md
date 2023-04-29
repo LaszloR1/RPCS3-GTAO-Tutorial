@@ -8,7 +8,7 @@ This tutorial expects that you are somewhat familiar with emulation, usage of RP
 
 Download & Install [RPCS3](https://rpcs3.net/download)
 
-Download the OS From [Sony's Website](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) and Intall it in RPCS3
+Download the OS From [Sony's Website](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) and Install it in RPCS3
 
 Download [pkg2zip](https://github.com/mmozeiko/pkg2zip/releases)
 
