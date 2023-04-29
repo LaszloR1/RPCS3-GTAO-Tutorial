@@ -1,6 +1,6 @@
 # RPCS3 GTAO Tutorial
 
-## Intro
+## Introa
 
 This tutorial expects that you are somewhat familiar with emulation, usage of RPCS3 and general computer usage. I'm fairly certain you can google any issue you come across and find a solution in seconds. Piracy is bad, this guide assumes you own a PS3, GTA V (maybe even the Collectors Edition) and you would like to try out exciting new technologies such as emulation, but you don't have a Blu-ray reader for your PC.
 
@@ -53,7 +53,7 @@ If you installed an update, but you want to go back to 1.0 follow these steps:
 - Delete the folder
 - Hit refresh
 
-## Custom Config (Credit to [@Dark FH](https://www.youtube.com/@DakrFH))
+## Custom Config (Credit to [@Dakr FH](https://www.youtube.com/@DakrFH))
 
 Create custom config for GTA 5 (right click on the game) with the following settings. This is not mandatory, but it improves performance and stability. 
 - `GPU > Additional Settings > Write Color Buffers: On`
