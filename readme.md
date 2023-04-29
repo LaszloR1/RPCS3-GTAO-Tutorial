@@ -56,7 +56,7 @@ If you installed an update, but you want to go back to 1.0 follow these steps:
 ## Downgrading
 If you installed the wrong update, say 1.27 but you want to be on 1.06 - 1.12 follow these steps:
 - Right click on the game entry and select Open Install Folder
-- Open the USRDIR Folder and delete dlc inside of it
+- Open the USRDIR Folder and delete the dlc folder inside of it
 - Follow the `Patch It` Section
 
 ## Custom Config (Credit to [@DakrFH](https://www.youtube.com/@DakrFH))
