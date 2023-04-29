@@ -8,7 +8,7 @@ This tutorial expects that you are somewhat familiar with emulation, usage of RP
 
 Download & Install [RPCS3](https://rpcs3.net/download)
 
-Download the OS From [Sony's Website](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) and Intall it in RPCS3
+Download the OS From [Sony's Website](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) and Install it in RPCS3
 
 Download [pkg2zip](https://github.com/mmozeiko/pkg2zip/releases)
 
@@ -53,7 +53,13 @@ If you installed an update, but you want to go back to 1.0 follow these steps:
 - Delete the folder
 - Hit refresh
 
-## Custom Config (Credit to [@Dakr FH](https://www.youtube.com/@DakrFH))
+## Downgrading
+If you installed the wrong update, say 1.27 but you want to be on 1.06 - 1.12 follow these steps:
+- Right click on the game entry and select Open Install Folder
+- Open the USRDIR Folder and delete the dlc folder inside of it
+- Follow the `Patch It` Section
+
+## Custom Config (Credit to [@DakrFH](https://www.youtube.com/@DakrFH))
 
 Create custom config for GTA 5 (right click on the game) with the following settings. This is not mandatory, but it improves performance and stability. 
 - `GPU > Additional Settings > Write Color Buffers: On`
@@ -70,7 +76,7 @@ These steps are required to be able to play with others
 
 - `Conifguration > RPCN > Account > Create Account` (do what it says)
 - Once done click Test Account it should say: `Your account is valid!`
-- If invalid repeat the step 1 again
+- If invalid repeat from step 1 again
 
 ## Enjoy
 
@@ -78,8 +84,8 @@ Start the game, complete `Prologue` and `Franklin and Lamar` and you should be a
 
 ## Cheating
 
-Since characters are temporary its only fair we cheat a little bit. Money and RP are stored as `4 Byte Big Endians`. If you are using Cheat Engine this type has to be enabled inside `Settings > Extra Custom Types`. You can also set up `300000000 - 380000000` as start and endpoints for the scans.
+Since characters are temporary it's only fair we cheat a little bit. Money and RP are stored as `4 Byte Big Endians`. If you are using Cheat Engine this type has to be enabled inside `Settings > Extra Custom Types`. You can also set up `300000000 - 341FFFFFF` as start and endpoints for the scans.
 
 ## Credits
 - [@Tervel1337](https://twitter.com/Tervel1337) for discovering this whole rabbit-hole
-- [@Dakr FH](https://www.youtube.com/@DakrFH) for the configs
+- [@DakrFH](https://www.youtube.com/@DakrFH) for the configs
