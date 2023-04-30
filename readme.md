@@ -47,12 +47,6 @@ Download [rusty-psn](https://github.com/RainbowCookie32/rusty-psn)
 - Select the downloaded patch(es) in File Explorer and drag it into RPCS3
 - Your game version should be `1.06` now
 
-## Un-Patch It
-If you installed an update, but you want to go back to 1.0 follow these steps: 
-- Right click on the game entry and select Open Install Folder
-- Delete the folder
-- Hit refresh
-
 ## Downgrading
 If you installed the wrong update, say 1.27 but you want to be on 1.06 - 1.12 follow these steps:
 - Right click on the game entry and select Open Install Folder
