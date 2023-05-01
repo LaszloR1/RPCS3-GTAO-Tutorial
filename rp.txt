@@ -1,6 +1,6 @@
 RP Experience Table, Credit to: nerdassault.com.br
 
-LEVEL		RP NECESSARY			RP TO NEXT LEVEL
+LEVEL		RP NECESSARY		RP TO NEXT LEVEL
 1		0			800
 2		800 			1300
 3		2100 			1700
