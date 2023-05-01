@@ -6,6 +6,8 @@ This guide expects you to be a bit familiar with [Cheat Engine](https://github.c
 
 Most values in the game are stored as `4 Byte Big Endians`, this is not enabled in Cheat Engine by default so go to  `Settings > Extra Custom Types` and enable it there.
 
+You also need to enable `Settings > Scan Settings > MEM_MAPPED`.
+
 To speed up your searches you can set up `300000000` - `341FFFFFF` as start and endpoints for the scans.
 
 Common things and their types
