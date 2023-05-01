@@ -10,11 +10,11 @@ To speed up your searches you can set up `300000000` - `341FFFFFF` as start and 
 
 Common things and their types
 
-- Money `4 Byte Big Endians`
-- Bank `4 Byte Big Endians`
-- RP `4 Byte Big Endians`
-- Snacks `4 Byte Big Endians`
-- Vehicles `4 Byte Big Endians + HEX`
+- Money `4 Byte Big Endian`
+- Bank `4 Byte Big Endian`
+- RP `4 Byte Big Endian`
+- Snacks `4 Byte Big Endian`
+- Vehicles `4 Byte Big Endian + HEX`
 
 ## Money
 
@@ -22,7 +22,7 @@ Money and Bank are the easiest to change. Just look up the value, withdraw/depos
 
 ## RP
 
-RP is a bit more tricky to change. You can only ever increase your RP, you can do these activities: `Gang Attack Kills`, `Losing a Wanted Level`, `Robbing a Store`, `Completing a Stunt Jump`, `Delivering a Simeon Car`, `Any Job`.
+RP is a bit more tricky to change. You can only increase your RP, to do that you can use these activities: `Gang Attack Kills`, `Losing a Wanted Level`, `Robbing a Store`, `Completing a Stunt Jump`, `Delivering a Simeon Car`, `Any Job`.
 
 You keep doing scan until you get <20 addresses. From there you have to figure out which one is the real one, all others are duds.
 
