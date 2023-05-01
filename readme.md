@@ -78,7 +78,7 @@ Start the game, complete `Prologue` and `Franklin and Lamar` and you should be a
 
 ## Cheating
 
-Since characters are temporary it's only fair we cheat a little bit. Money and RP are stored as `4 Byte Big Endians`. If you are using Cheat Engine this type has to be enabled inside `Settings > Extra Custom Types`. You can also set up `300000000 - 341FFFFFF` as start and endpoints for the scans.
+[Moved Here](cheating.md)
 
 ## Credits
 - [@Tervel1337](https://twitter.com/Tervel1337) for discovering this whole rabbit-hole
