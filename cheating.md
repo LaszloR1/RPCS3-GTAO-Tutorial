@@ -20,7 +20,7 @@ Common things and their types
 
 ## Money
 
-Money and Bank are the easiest to change. Just look up the value, withdraw/deposit until you can narrow it down to 2. One of the addresses will be the real address that let's you change your money, other one is a dud.
+Money and Bank are the easiest to change. Just look up the value, withdraw/deposit until you can narrow it down to 2 Addresses. One of the addresses will be the real address that let's you change your money, other one is a dud.
 
 ## RP
 
