@@ -26,6 +26,8 @@ Money and Bank are the easiest to change. Just look up the value, withdraw/depos
 
 RP is a bit more tricky to change. You can only increase your RP, to do that you can use these activities: `Gang Attack Kills`, `Losing a Wanted Level`, `Robbing a Store`, `Completing a Stunt Jump`, `Delivering a Simeon Car`, `Any Job`.
 
+You can see your current RP by pressing `D-Pad Down`. You should see `0/500` when you first start out. The value you are interested in is on the left side of the slash.
+
 You keep doing scan until you get <20 addresses. From there you have to figure out which one is the real one, all others are duds.
 
 A good way to find the real Address is to select half of the Addresses, change it to a different value. If it reverts back instantly then none of the selected ones are the real ones. You can delete them all. If the RP stays then delete the other half. Repeat until you have a single Address.
