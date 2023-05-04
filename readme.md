@@ -82,6 +82,8 @@ Start the game, complete `Prologue` and `Franklin and Lamar` and you should be a
 
 ## Troubleshooting
 
+**Timed out when matchmaking for a compatible GTA Online session to join** - This just happens sometimes. Keep trying or start an Invite Only session and then select Find New Session after loading in.
+
 **I keep getting put into empty sessions** - This can be caused by many things. Sometimes nobody is online, but if you know for sure there are other people online make sure you have the correct game version. If your game version is correct try to enable UPnP on your router. Sometimes Windows likes to ruin your networking for no reason. Navigate to `Gaming > Xbox Networking`, wait for everything to finish loading and click the `Fix it` button. After it is done fixing click `Check again`.
 
 **The patch got separate entry in RPCS3 instead of bumping GTA V's version** - You most likely got a patch for a different version of GTA V. Make sure your game's serial matches your patch's serial. You can get the correct serial for your game by right clicking on your game in RPCS3 `Copy Info > Copy Serial`.
