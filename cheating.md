@@ -68,6 +68,8 @@ You can also change the amount of Snacks you have. Just keep eating/buying them 
 
 In my experience Addresses will be reused. I have saved all of the different Money and RP Addresses I have encountered through numerous sessions. I came across 2 Money and 3 RP Addresses where one would always be valid. You might just get away with saving these Addresses instead of trying to figure out all the pointer stuff.
 
+Your characters gender also plays a part in the Addresses, as when your a male the Addresses are sometimes different from when you are a female.
+
 ## Credits
 - [@Tervel1337](https://twitter.com/Tervel1337) for figuring out you can get cars the same way as on PC
 - [@DakrFH](https://www.youtube.com/@DakrFH) for helping with this guide in general
